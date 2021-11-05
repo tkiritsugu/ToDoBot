@@ -1,0 +1,7 @@
+botconf module
+==============
+
+.. automodule:: botconf
+   :members:
+   :undoc-members:
+   :show-inheritance:
